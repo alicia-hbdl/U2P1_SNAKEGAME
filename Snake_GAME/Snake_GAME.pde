@@ -1,3 +1,6 @@
+
+
+
 Snake Snake1;
 Food Food1;
 Grid Grid1;
